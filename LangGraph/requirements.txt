@@ -1,0 +1,6 @@
+streamlit
+langchain-groq
+langgraph
+langchain-tavily
+arxiv
+python-dotenv
